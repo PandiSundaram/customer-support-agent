@@ -1,4 +1,4 @@
-# 🤖 Customer Support Agent
+#  Customer Support Agent
 
 The application uses an LLM-powered agent to understand customer requests, reason about the required actions, select the appropriate tools, and use the returned information to determine the next step.
 
